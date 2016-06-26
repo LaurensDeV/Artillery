@@ -1,0 +1,5 @@
+Het doel van dit spel is om de tank van de vijand kapot te maken.
+Dit doe je door een hoek en een sterkte in te stellen en op de Fire
+knop te drukken.
+Simpel toch? Ja dat dachten wij ook...
+Dit spel is gemaakt door Laurens De Voogd en Robby Dirix.

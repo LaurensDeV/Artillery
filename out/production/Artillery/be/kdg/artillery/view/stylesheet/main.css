@@ -1,0 +1,25 @@
+.gridPane {
+    -fx-background-color: dimgrey;
+    -fx-font-family: "Adobe Gothic Std B";
+    -fx-font-size: 18px;
+    -fx-text-fill: white;
+}
+
+.fire {
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-font-family: "Adobe Gothic Std B";
+    -fx-font-size: 50px;
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: yellow;
+}
+
+.progressbar {
+    -fx-background-color: linear-gradient(to right, #00ff31, yellow, #cd000d);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+}
+
+.progressbar .track {
+    -fx-background-color: null;
+}
